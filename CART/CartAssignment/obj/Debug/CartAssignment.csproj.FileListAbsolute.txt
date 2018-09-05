@@ -1,0 +1,7 @@
+C:\Users\rnayyar\source\repos\CartAssignment\CartAssignment\bin\Debug\CartAssignment.exe.config
+C:\Users\rnayyar\source\repos\CartAssignment\CartAssignment\bin\Debug\CartAssignment.exe
+C:\Users\rnayyar\source\repos\CartAssignment\CartAssignment\bin\Debug\CartAssignment.pdb
+C:\Users\rnayyar\source\repos\CartAssignment\CartAssignment\obj\Debug\CartAssignment.csprojResolveAssemblyReference.cache
+C:\Users\rnayyar\source\repos\CartAssignment\CartAssignment\obj\Debug\CartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\CartAssignment\CartAssignment\obj\Debug\CartAssignment.exe
+C:\Users\rnayyar\source\repos\CartAssignment\CartAssignment\obj\Debug\CartAssignment.pdb
