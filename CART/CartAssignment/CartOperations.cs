@@ -51,7 +51,6 @@ namespace CartAssignment
             {
                 Console.WriteLine("ID: " + cart.ItemsInCart[index].itemID + "  Name: " + cart.ItemsInCart[index].itemName + " Price: " + cart.ItemsInCart[index].itemPrice);
             }
-            TotalBill(cart);
             Console.WriteLine("-----------------------------------");
         }
 
