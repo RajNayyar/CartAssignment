@@ -1,0 +1,14 @@
+C:\Users\rnayyar\source\repos\CartAssignment\CartAssignment\bin\Debug\CartAssignment.exe.config
+C:\Users\rnayyar\source\repos\CartAssignment\CartAssignment\bin\Debug\CartAssignment.exe
+C:\Users\rnayyar\source\repos\CartAssignment\CartAssignment\bin\Debug\CartAssignment.pdb
+C:\Users\rnayyar\source\repos\CartAssignment\CartAssignment\obj\Debug\CartAssignment.csprojResolveAssemblyReference.cache
+C:\Users\rnayyar\source\repos\CartAssignment\CartAssignment\obj\Debug\CartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\CartAssignment\CartAssignment\obj\Debug\CartAssignment.exe
+C:\Users\rnayyar\source\repos\CartAssignment\CartAssignment\obj\Debug\CartAssignment.pdb
+C:\Users\rnayyar\Desktop\CartAssignment-VersionOne\CART\CartAssignment\bin\Debug\CartAssignment.exe.config
+C:\Users\rnayyar\Desktop\CartAssignment-VersionOne\CART\CartAssignment\bin\Debug\CartAssignment.exe
+C:\Users\rnayyar\Desktop\CartAssignment-VersionOne\CART\CartAssignment\bin\Debug\CartAssignment.pdb
+C:\Users\rnayyar\Desktop\CartAssignment-VersionOne\CART\CartAssignment\obj\Debug\CartAssignment.csprojResolveAssemblyReference.cache
+C:\Users\rnayyar\Desktop\CartAssignment-VersionOne\CART\CartAssignment\obj\Debug\CartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\Desktop\CartAssignment-VersionOne\CART\CartAssignment\obj\Debug\CartAssignment.exe
+C:\Users\rnayyar\Desktop\CartAssignment-VersionOne\CART\CartAssignment\obj\Debug\CartAssignment.pdb
